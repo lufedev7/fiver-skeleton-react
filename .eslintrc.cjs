@@ -28,10 +28,5 @@ module.exports = {
   rules: {
     'prettier/prettier': 'error',
     'react/react-in-jsx-scope': 'off',
-    '@typescript-eslint/explicit-function-return-type': 'off',
-    '@typescript-eslint/space-before-function-paren': 'off',
-    'import/no-absolute-path': 'off',
-    'react/jsx-no-target-blank': 'off',
-    '@typescript-eslint/no-confusing-void-expression': 'off',
   },
 }
